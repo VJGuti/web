@@ -11,6 +11,47 @@ table {
   display: flex;
 }
 
+.Nombres {
+  display: flex;
+  flex-direction: column;
+  background-color: #4a10a8;
+  margin-left: 10px;
+  padding: 20px;
+}
+
+.Datos {
+  background-color: #4a10a8;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+h1 {
+  float: left;
+  width: 150px;
+}
+
+.Yo {
+  margin-left: 20px;
+  margin-right: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Lenguajes {
+  float: left;
+  padding: 10px;
+  width: 170px;
+}
+
+img {
+  padding: 0px;
+  margin: 0%;
+}
+
+.medios {
+  width: 150px;
+}
+
 header:hover {
   background-color: antiquewhite;
 }/*# sourceMappingURL=styles1.css.map */
