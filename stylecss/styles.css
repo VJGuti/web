@@ -1,1 +1,15 @@
-/*# sourceMappingURL=styles.css.map */
+body {
+  background-image: url(img/1.png);
+  background-repeat: repeat-x;
+  background-color: #706d6d;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav:hover {
+  background-color: antiquewhite;
+  color: white;
+}/*# sourceMappingURL=styles.css.map */
